@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace2" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="CompilerErrors" Path="CompilerErrors/CompilerErrors.project" Active="No"/>
+  <Project Name="CompilerWarnings" Path="CompilerWarnings/CompilerWarnings.project" Active="No"/>
+  <Project Name="LinkerErrors" Path="LinkerErrors/LinkerErrors.project" Active="No"/>
+  <Project Name="RuntimeErrors" Path="RuntimeErrors/RuntimeErrors.project" Active="No"/>
+  <Project Name="Section4Challenge" Path="Section4Challenge/Section4Challenge.project" Active="No"/>
+  <Project Name="Section6Challenge" Path="Section6Challenge/Section6Challenge.project" Active="No"/>
+  <Project Name="Section7Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="Section8Challenge" Path="Section8Challenge/Section8Challenge.project" Active="No"/>
+  <Project Name="Section9If" Path="Section9If/Section9If.project" Active="No"/>
+  <Project Name="Section9Switch" Path="Section9Switch/Section9Switch.project" Active="No"/>
+  <Project Name="Section9Enum" Path="Section9Enum/Section9Enum.project" Active="No"/>
+  <Project Name="Section9ConditionalOperator" Path="Section9ConditionalOperator/Section9ConditionalOperator.project" Active="No"/>
+  <Project Name="Section9ForLoop" Path="Section9ForLoop/Section9ForLoop.project" Active="No"/>
+  <Project Name="Section9RangeLoop" Path="Section9RangeLoop/Section9RangeLoop.project" Active="No"/>
+  <Project Name="Section9WhileLoop" Path="Section9WhileLoop/Section9WhileLoop.project" Active="No"/>
+  <Project Name="Section9DoWhile" Path="Section9DoWhile/Section9DoWhile.project" Active="No"/>
+  <Project Name="Section9NestedLoops" Path="Section9NestedLoops/Section9NestedLoops.project" Active="No"/>
+  <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+  <Project Name="Section9Challenge" Path="Section9Challenge/Section9Challenge.project" Active="No"/>
+  <Project Name="Section10CStyleStrings" Path="Section10CStyleStrings/Section10CStyleStrings.project" Active="No"/>
+  <Project Name="Section10C++Strings" Path="Section10C++Strings/Section10C++Strings.project" Active="No"/>
+  <Project Name="Section10Challenge" Path="Section10Challenge/Section10Challenge.project" Active="No"/>
+  <Project Name="Section10Assignment" Path="Section10Assignment/Section10Assignment.project" Active="No"/>
+  <Project Name="Section10Functions" Path="Section10Functions/Section10Functions.project" Active="No"/>
+  <Project Name="Section10Arguments" Path="Section10Arguments/Section10Arguments.project" Active="No"/>
+  <Project Name="Section10FunctionOverloading" Path="Section10FunctionOverloading/Section10FunctionOverloading.project" Active="No"/>
+  <Project Name="Section10PassingArrays" Path="Section10PassingArrays/Section10PassingArrays.project" Active="No"/>
+  <Project Name="Section10PassingArraysToFunctions" Path="Section10PassingArraysToFunctions/Section10PassingArraysToFunctions.project" Active="No"/>
+  <Project Name="Section11PassByReference" Path="Section11PassByReference/Section11PassByReference.project" Active="No"/>
+  <Project Name="Section11Scope" Path="Section11Scope/Section11Scope.project" Active="No"/>
+  <Project Name="Section11Challenge" Path="Section11Challenge/Section11Challenge.project" Active="No"/>
+  <Project Name="Section12SimplePointers" Path="Section12SimplePointers/Section12SimplePointers.project" Active="No"/>
+  <Project Name="Section12Dereference" Path="Section12Dereference/Section12Dereference.project" Active="No"/>
+  <Project Name="Section12DynamicMemory" Path="Section12DynamicMemory/Section12DynamicMemory.project" Active="No"/>
+  <Project Name="Section12ArraysPointers" Path="Section12ArraysPointers/Section12ArraysPointers.project" Active="No"/>
+  <Project Name="Section12PointerArith" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="Section12PassingPointers" Path="Section12PassingPointers/Section12PassingPointers.project" Active="No"/>
+  <Project Name="Section12ReturnPointers" Path="Section12ReturnPointers/Section12ReturnPointers.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="CompilerErrors" ConfigName="Debug"/>
+      <Project Name="CompilerWarnings" ConfigName="Debug"/>
+      <Project Name="LinkerErrors" ConfigName="Debug"/>
+      <Project Name="RuntimeErrors" ConfigName="Debug"/>
+      <Project Name="Section4Challenge" ConfigName="Debug"/>
+      <Project Name="Section6Challenge" ConfigName="Debug"/>
+      <Project Name="Section7Vectors" ConfigName="Debug"/>
+      <Project Name="Section8Challenge" ConfigName="Debug"/>
+      <Project Name="Section9If" ConfigName="Debug"/>
+      <Project Name="Section9Switch" ConfigName="Debug"/>
+      <Project Name="Section9Enum" ConfigName="Debug"/>
+      <Project Name="Section9ConditionalOperator" ConfigName="Debug"/>
+      <Project Name="Section9ForLoop" ConfigName="Debug"/>
+      <Project Name="Section9RangeLoop" ConfigName="Debug"/>
+      <Project Name="Section9WhileLoop" ConfigName="Debug"/>
+      <Project Name="Section9DoWhile" ConfigName="Debug"/>
+      <Project Name="Section9NestedLoops" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="Section9Challenge" ConfigName="Debug"/>
+      <Project Name="Section10CStyleStrings" ConfigName="Debug"/>
+      <Project Name="Section10C++Strings" ConfigName="Debug"/>
+      <Project Name="Section10Challenge" ConfigName="Debug"/>
+      <Project Name="Section10Assignment" ConfigName="Debug"/>
+      <Project Name="Section10Functions" ConfigName="Debug"/>
+      <Project Name="Section10Arguments" ConfigName="Debug"/>
+      <Project Name="Section10FunctionOverloading" ConfigName="Debug"/>
+      <Project Name="Section10PassingArrays" ConfigName="Debug"/>
+      <Project Name="Section10PassingArraysToFunctions" ConfigName="Debug"/>
+      <Project Name="Section11PassByReference" ConfigName="Debug"/>
+      <Project Name="Section11Scope" ConfigName="Debug"/>
+      <Project Name="Section11Challenge" ConfigName="Debug"/>
+      <Project Name="Section12SimplePointers" ConfigName="Debug"/>
+      <Project Name="Section12Dereference" ConfigName="Debug"/>
+      <Project Name="Section12DynamicMemory" ConfigName="Debug"/>
+      <Project Name="Section12ArraysPointers" ConfigName="Debug"/>
+      <Project Name="Section12PointerArith" ConfigName="Debug"/>
+      <Project Name="Section12PassingPointers" ConfigName="Debug"/>
+      <Project Name="Section12ReturnPointers" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="CompilerErrors" ConfigName="Release"/>
+      <Project Name="CompilerWarnings" ConfigName="Release"/>
+      <Project Name="LinkerErrors" ConfigName="Release"/>
+      <Project Name="RuntimeErrors" ConfigName="Release"/>
+      <Project Name="Section4Challenge" ConfigName="Release"/>
+      <Project Name="Section6Challenge" ConfigName="Release"/>
+      <Project Name="Section7Vectors" ConfigName="Release"/>
+      <Project Name="Section8Challenge" ConfigName="Release"/>
+      <Project Name="Section9If" ConfigName="Release"/>
+      <Project Name="Section9Switch" ConfigName="Release"/>
+      <Project Name="Section9Enum" ConfigName="Release"/>
+      <Project Name="Section9ConditionalOperator" ConfigName="Release"/>
+      <Project Name="Section9ForLoop" ConfigName="Release"/>
+      <Project Name="Section9RangeLoop" ConfigName="Release"/>
+      <Project Name="Section9WhileLoop" ConfigName="Release"/>
+      <Project Name="Section9DoWhile" ConfigName="Release"/>
+      <Project Name="Section9NestedLoops" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="Section9Challenge" ConfigName="Release"/>
+      <Project Name="Section10CStyleStrings" ConfigName="Release"/>
+      <Project Name="Section10C++Strings" ConfigName="Release"/>
+      <Project Name="Section10Challenge" ConfigName="Release"/>
+      <Project Name="Section10Assignment" ConfigName="Release"/>
+      <Project Name="Section10Functions" ConfigName="Release"/>
+      <Project Name="Section10Arguments" ConfigName="Release"/>
+      <Project Name="Section10FunctionOverloading" ConfigName="Release"/>
+      <Project Name="Section10PassingArrays" ConfigName="Release"/>
+      <Project Name="Section10PassingArraysToFunctions" ConfigName="Release"/>
+      <Project Name="Section11PassByReference" ConfigName="Release"/>
+      <Project Name="Section11Scope" ConfigName="Release"/>
+      <Project Name="Section11Challenge" ConfigName="Release"/>
+      <Project Name="Section12SimplePointers" ConfigName="Release"/>
+      <Project Name="Section12Dereference" ConfigName="Release"/>
+      <Project Name="Section12DynamicMemory" ConfigName="Release"/>
+      <Project Name="Section12ArraysPointers" ConfigName="Release"/>
+      <Project Name="Section12PointerArith" ConfigName="Release"/>
+      <Project Name="Section12PassingPointers" ConfigName="Release"/>
+      <Project Name="Section12ReturnPointers" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
